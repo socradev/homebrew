@@ -2,7 +2,7 @@ require 'formula'
 
 class Jmeter < Formula
   homepage 'http://jakarta.apache.org/jmeter/'
-  url 'http://apache.webxcreen.org/jmeter/binaries/apache-jmeter-2.7.tgz'
+  url 'http://apache.mirror.versatel.nl/jmeter/binaries/apache-jmeter-2.7.tgz'
   sha1 'cffa989e7b53dc06a9eaab3bd377b83acae4822b'
 
   def startup_script name
